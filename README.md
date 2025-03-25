@@ -1,0 +1,3 @@
+# TRABAJO PRACTICO
+## PUNTO 1
+El archivo .gitignore es esencial para mantener un repositorio limpio y eficiente, ya que permite evitar el seguimiento de archivos innecesarios o sensibles, como archivos temporales, configuraciones locales, dependencias externas y archivos de compilación. Es conveniente incluirlo al inicio del proyecto para prevenir la inclusión de archivos que no aportan al código fuente. Se debe configurar según las necesidades del proyecto, ignorando patrones como archivos generados por el sistema operativo, configuraciones del editor, dependencias, archivos de compilación y archivos sensibles como las claves API.
